@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(red,rgba(255, 68, 0, 0.953),rgb(255, 255, 0))
+}
+
+.profile{
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+margin-top: 100px;
+}
+
+.profile h2{
+    color: white;
+}
+
+.profile h4{
+    color: white;
+    transform: translateY(-10px);
+}
+.tama{
+    width: 150px;
+}
