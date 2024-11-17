@@ -21,3 +21,18 @@ margin-top: 100px;
 .tama{
     width: 150px;
 }
+
+.profile h2{
+    color: white;
+}
+
+.profile h5{
+    color: white;
+    transform: translate(-10px);
+}
+
+.biodata{
+    background: linear-gradient(#fffeff 0%,#ffffffd7 40%,#ffffff00 100%);
+    padding-bottom: 200px;
+    padding-top: 55px;
+}
